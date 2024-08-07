@@ -19,9 +19,9 @@ Welcome Fellow Coders!
 
 ## Project Basic Wireframe
 
-![Image of landing page](/documentation/images/landing-page.svg)
-![Image of membership sign up modal](/documentation/images/membership-signup.svg)
-![Image of product search](/documentation/images/product-search-page.svg)
+![Image of landing page](/documentation/images/landing-page.webp)
+![Image of membership sign up modal](/documentation/images/membership-signup.webp)
+![Image of product search](/documentation/images/product-search-page.webp)
 
 ## Gitpod Reminders
 
