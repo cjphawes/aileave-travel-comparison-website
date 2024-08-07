@@ -1,10 +1,20 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+Welcome Fellow Coders!
 
-Welcome USER_NAME,
+## User stories
+### Un-Registered Users
+- As a **user**, I can **register for an account** so that **I receive additional privileges as a registered account holder**
+- As a **user**, I am able to **navigate through every page** so that **I can see all the information I require**
+- As a **user**, I am able to **search for products based on my requirements** so that **finding the right product for me is easy**
+- As a **user**, I can **answer my own questions via the FAQ section** so that **I am provided the information I require to make better decisions**
+- As a **user**, I am able to **change the preference of language to view** so that **I can understand the website from another language**
+- As a **user**, I am able to **provide feedback to the website** so that **the website can improve its experience for the user based on user feedback**
+- As a **user**, I can **use filters to shorten the amount of products I have to search through** so that **the search results are more tailored to my preferences** 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
-
-You can safely delete this README.md file or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **June 18, 2024**
+### Registered Users
+- As a **registered user**, I am able to **change my account details and profile** so that **I have greater customization abilities for my account**
+- As a **registered user**, I am able to **rate the companies I search for products from** so that **I have can have an influence on what other users might be hesitant on looking into**
+- As a **registered user**, I can **save my preferences for future searches** so that **I don't need to keep adding my preferences in the search criteria**
+- As a **registered user**, I am able to **add review comments to products** so that **I can share details about my experience with other users who are looking at this certain products**
 
 ## Gitpod Reminders
 
