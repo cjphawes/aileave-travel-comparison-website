@@ -19,14 +19,21 @@ Welcome Fellow Coders!
 
 ## Project Basic Wireframe
 
-## Landing Page
+### Landing Page
 ![Image of landing page](/documentation/images/landing-page.webp)
 
-## Account Sign-up
+### Account Sign-up
 ![Image of membership sign up modal](/documentation/images/membership-signup.webp)
 
-## Product Search Page
+### Product Search
 ![Image of product search](/documentation/images/product-search-page.webp)
+
+### Feedback Form
+![Image of the feedback form users can send](/documentation/images/feedback-form.webp)
+
+### Account Settings / Profile
+![Image of the users profile upon logging in](/documentation/images/account-settings.webp)
+
 
 ## Gitpod Reminders
 
