@@ -1,6 +1,6 @@
 Welcome Fellow Coders!
 
-## User stories
+## User Stories
 ### Un-Registered Users
 - As a **user**, I can **register for an account** so that **I receive additional privileges as a registered account holder**
 - As a **user**, I am able to **navigate through every page** so that **I can see all the information I require**
@@ -19,8 +19,13 @@ Welcome Fellow Coders!
 
 ## Project Basic Wireframe
 
+## Landing Page
 ![Image of landing page](/documentation/images/landing-page.webp)
+
+## Account Sign-up
 ![Image of membership sign up modal](/documentation/images/membership-signup.webp)
+
+## Product Search Page
 ![Image of product search](/documentation/images/product-search-page.webp)
 
 ## Gitpod Reminders
