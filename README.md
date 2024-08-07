@@ -16,6 +16,13 @@ Welcome Fellow Coders!
 - As a **registered user**, I can **save my preferences for future searches** so that **I don't need to keep adding my preferences in the search criteria**
 - As a **registered user**, I am able to **add review comments to products** so that **I can share details about my experience with other users who are looking at this certain products**
 
+
+## Project Basic Wireframe
+
+![Image of landing page](/documentation/images/landing-page.svg)
+![Image of membership sign up modal](/documentation/images/membership-signup.svg)
+![Image of product search](/documentation/images/product-search-page.svg)
+
 ## Gitpod Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
